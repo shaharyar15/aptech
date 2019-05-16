@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+<head>
+<title>question no 1</title>
+</head>
+<style>
+.header{
+	margin:100;padding:100;
+	background: #ecf1f4;
+	float:left;
+}
+</style>
+<body>
+<header></header>
+<nav></nav>
+<section></section>
+<aside></aside>
+<footer></footer>
+</body>
+</html>
