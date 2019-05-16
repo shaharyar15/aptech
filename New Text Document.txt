@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<title>question no 1</title>
+<title>question no 2</title>
 </head>
 <style>
 .header{
